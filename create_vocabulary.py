@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  9 14:54:58 2018
 
-@author: SAGAR
-"""
 import pickle
 import nltk
 from api_client import ApiClient
