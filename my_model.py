@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  9 16:57:45 2018
 
-@author: SAGAR
-"""
 import numpy as np
 import pickle
 from keras.models import Sequential, Model
